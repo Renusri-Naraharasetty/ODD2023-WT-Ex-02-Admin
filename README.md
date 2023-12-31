@@ -35,4 +35,5 @@ then go for myfirstproject and newproject where we are gonna work.
 
 # Design Procedure:
 
-![result](result.png)
+![result](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-02-Admin/assets/146916363/1c233f98-9dd3-4487-9391-89fea7cc6855)
+
